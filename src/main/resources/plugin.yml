@@ -1,0 +1,9 @@
+name: Resource
+version: '${version}'
+main: com.github.doiche.Main
+api-version: '1.20'
+commands:
+  note:
+    description: Set custom note block
+  wire:
+    description: Set custom wire block

@@ -1,0 +1,20 @@
+
+tripwire:
+  blue_block2:
+    attached: false
+    disarmed: false
+    powered: true
+    east: false
+    north: false
+    south: false
+    west: false
+
+note_block:
+  red_block:
+    instrument: "bass_drum"
+    note: 0
+    powered: true
+  blue_block:
+    instrument: "bass_drum"
+    note: 0
+    powered: false
